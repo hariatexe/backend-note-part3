@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/notes/66554a59edab1eeb7ecf92a7
+
+Content-type : application/json
+
+{
+    "content" : "Chau Mundo", 
+    "important" : true, 
+}
